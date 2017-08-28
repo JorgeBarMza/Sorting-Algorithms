@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jb/Documents/School/Universidad/3/Algoritmos/Sorting-Algorithms/Experiment/main.cpp
+iostream
+-
+sstream
+-
+cstdio
+-
+cmath
+-
+cstring
+-
+cctype
+-
+string
+-
+vector
+-
+list
+-
+set
+-
+map
+-
+queue
+-
+stack
+-
+algorithm
+-
+functional
+-
+bitset
+-
+chrono
+-
+
